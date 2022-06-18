@@ -10,7 +10,7 @@
 
 This feed is enabled by default. Your feeds.conf.default (or feeds.conf) should contain a line like:
 ```
-src-git small https://github.com/kenzok8/small.git
+src-git small https://github.com/kenzok8/small.git #passwall 
 src-git luci https://github.com/openwrt/luci.git
 ```
 
